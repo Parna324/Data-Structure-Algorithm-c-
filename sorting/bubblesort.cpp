@@ -1,8 +1,8 @@
-// Optimized implementation of Bubble sort
+
 #include <bits/stdc++.h>
 using namespace std;
 
-// An optimized version of Bubble Sort
+
 void bubbleSort(int arr[], int n)
 {
     int i, j;
