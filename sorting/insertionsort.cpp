@@ -3,8 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to sort an array using
-// insertion sort
+
 void insertionSort(int arr[], int n)
 {
     int i, key, j;
